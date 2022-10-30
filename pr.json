@@ -26,7 +26,8 @@
         "title": "You dream, we make it happen",
         "text": "Digital real estate agency in Portugal.<br>We are specialists in the purchase and sale of real estate remotely.",
         "btn": "GET IN TOUCH"
-      }
+      },
+      "fone": "351924871865"
     },
   "reviews": {
     "pt": 
@@ -107,6 +108,7 @@
       {
         "img": "/imgs/consultores/chloe.jpg",
         "nome": "Chloé Maxin",
+        "fone": "351924871865",
         "pt": {
           "func": "Consultora Imobiliária",
           "ind": "Idioma: Português | Frânces | Inglês"
@@ -119,6 +121,7 @@
       {
         "img": "/imgs/consultores/nuno.jpg",
         "nome": "Nuno Novais",
+        "fone": "351924871865",
         "pt": {
           "func": "Consultor Imobiliário",
           "ind": "Idioma: Português"
@@ -131,6 +134,7 @@
       {
         "img": "/imgs/consultores/tercia.jpg",
         "nome": "Tércia Capello",
+        "fone": "351924871865",
         "pt": {
           "func": "Consultora Imobiliária",
           "ind": "Idioma: Português | Inglês"
@@ -162,7 +166,7 @@
           "text": "EN Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
         },
         "img": "/imgs/servicos/casinha.svg",
-        "url": ""
+        "fone": "351924871865"
       },
       {
         "pt": {
@@ -174,7 +178,7 @@
           "text": "EN Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it ."
         },
         "img": "/imgs/servicos/maoechave.svg",
-        "url": ""
+        "fone": "351924871865"
       },
       {
         "pt": {
@@ -186,7 +190,7 @@
           "text": "EN Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it ."
         },
         "img": "/imgs/servicos/maosecasa.svg",
-        "url": ""
+        "fone": "351924871865"
       },
       {
         "pt": {
@@ -214,7 +218,8 @@
       "text": "Our team is ready to serve you. Click on the link and discover the properties available.<br><br>If you don't find what you want, send a message to one of our consultants or contact us!",
       "btn": "Available properties"
     },
-    "img": "/imgs/imoveis/todos.jpg"
+    "img": "/imgs/imoveis/todos.jpg",
+    "url": "https://www.idealista.pt/"
   },
   "contato": {
     "pt": {
