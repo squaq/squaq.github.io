@@ -1,14 +1,12 @@
 {
   "menu": {
     "pt": {
-      "home": "Home",
       "prcastro": "PR Castro",
       "service": "Nossos serviços",
       "imoveis": "Imóveis",
-      "contato": "Contato"
+      "contato": "Contacto"
     },
     "en": {
-      "home": "Home",
       "prcastro": "PR Castro",
       "service": "Our services",
       "imoveis": "Properties",
@@ -19,12 +17,12 @@
     {
       "pt": {
         "title": "Você sonha, a gente realiza",
-        "text": "Agência imobiliária digital em Portugal.<br>Somos especialistas em compra e venda de imóveis a distância.",
+        "text": "Agência imobiliária digital em Portugal | AMI 18099",
         "btn": "ENTRE EM CONTATO"
       },
       "en": {
         "title": "You dream, we make it happen",
-        "text": "Digital real estate agency in Portugal.<br>We are specialists in the purchase and sale of real estate remotely.",
+        "text": "Digital real estate agency in Portugal | AMI 18099",
         "btn": "GET IN TOUCH"
       },
       "fone": "351924871865"
@@ -95,13 +93,13 @@
     "pt": {
       "subtitle": "conheça a nossa",
       "title": "equipa de consultores",
-      "text": "A PR Castro foi criada pela necessidade de personalizar nosso atendimento junto ao cliente. Somado a isso, o enorme gosto em termos contato junto àqueles que são a razão do nosso trabalho, pois desta forma, podemos ajudá-los a construírem e concretizarem seus objetivos. Tudo de forma leve e transparente.<br><br>Nossa história no mercado imobiliário teve início em 2017, em Portugal. Onde nos especializamos em atender, de forma personalizada, clientes que estavam fora de Portugal. Grande parte brasileiros, nos seguimentos de Compra, Venda ou Arrendamento.<br><br>Durante o trajeto percebemos no segmento Imobiliário um mercado robusto, vibrante e muito dinâmico, o que nos motivou em 2020 a criar a PR Castro Negócios Imobiliários, uma empresa fundada por dois irmãos (uma psicóloga e um engenheiro), que se complementaram com criatividade, paixão e inovação e decidiram somar à vontade em construir o próprio Negócio com o de ajudar pessoas.<br><br>A empresa surgiu com o propósito de atuar nos segmentos do mercado de Compra (investimento ou moradia) e Venda de imóveis novos e usados e Arrendamentos.<br><br>Continuamos focados em novos cenários, novas tendências e novas oportunidades de negócios para proporcionar aos nossos clientes a máxima satisfação no processo.",
+      "text": "A PR Castro foi criada pela necessidade de <b>personalizar nosso atendimento junto ao cliente</b>. Somado a isso, o enorme gosto em termos contato junto àqueles que são a razão do nosso trabalho, pois desta forma, podemos <b>ajudá-los a construírem e concretizarem seus objetivos</b>. Tudo de forma leve e transparente.<br><br>Nossa história no mercado imobiliário teve início em 2017, em Portugal, onde nos especializamos em atender, de forma personalizada, clientes que estavam fora de Portugal. <b>Grande parte brasileiros, nos seguimentos de Compra, Venda ou Arrendamento</b>. Ao longo dos anos, decidimos criar a nossa marca com nossa forma de trabalho, nos possibilitando a criar mais sinergia com o negócio e os nossos clientes. E assim surgiu, em 2020, a PR Castro Negócios Imobiliários, uma empresa fundada por dois irmãos (uma psicóloga e um engenheiro), que se complementaram com criatividade, paixão e inovação e decidiram somar a vontade em construir o próprio negócio com o de ajudar pessoas.<br><br>Continuamos focados em novos cenários, novas tendências e novas oportunidades de negócios <b>para proporcionar aos nossos clientes a máxima satisfação no processo</b>.<br><br>\"Muito mais que imóveis, é construir relações.\" - Patricia Castro<br><br><b>Patricia Castro & Ricardo Castro<b>",
       "btn": "Envie uma mensagem"
     },
     "en": {
       "title": "meet our",
       "subtitle": "consutants team",
-      "text": "PR Castro was created by the need to customize our customer service. Added to this, the great pleasure in having contact with those who are the reason for our work, because in this way, we can help them to build and achieve their goals. All in a light and transparent way.<br><br>Our history in the real estate market began in 2017, in Portugal. Where we specialize in serving, in a personalized way, customers who were outside Portugal. Most Brazilians, in the Purchase, Sale or Lease segments.<br><br>Along the way, we noticed a robust, vibrant and very dynamic market in the Real Estate segment, which motivated us in 2020 to create PR Castro Negócios Imobiliários, a company founded by two brothers (a psychologist and an engineer), who complemented each other with creativity, passion and innovation and decided to add to their will to build their own Business with the one of helping people.<br><br>The company was created with the purpose of operating in the Purchase (investment or housing) and Sale of new and used properties and Leases.<br><br>We remain focused on new scenarios, new trends and new business opportunities to provide our customers with maximum satisfaction in the process.",
+      "text": "PR Castro was created by the need to <b>personalize our customer service</b>. Added to this, the great pleasure in having contact with those who are the reason for our work, because in this way, we can <b>help them build and achieve their goals</b>. All in a light and transparent way.<br><br>Our history in the real estate market began in 2017, in Portugal, where we specialize in serving, in a personalized way, clients who were outside Portugal. <b>Most Brazilians, in the Purchase, Sale or Lease segments</b>. Over the years, we decided to create our brand with our way of working, enabling us to create more synergy with the business and our customers. And so, in 2020, PR Castro Negócios Imobiliários was born, a company founded by two brothers (a psychologist and an engineer), who complemented each other with creativity, passion and innovation and decided to add their will to build their own business with that of helping people.<br><br>We remain focused on new scenarios, new trends and new business opportunities <b>to provide our customers with maximum satisfaction in the process</b>.<br><br>\"Much more than real estate is to build relationships.\" - Patricia Castro<br><br><b>Patricia Castro & Ricardo Castro<b>  ",
       "btn": "Send a message"
     },
     "team": [
@@ -159,11 +157,11 @@
       {
         "pt": {
           "title": "Compra de imóvel em Portugal a distância",
-          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          "text": "Temos expertise nesse tipo de negócio. Se tem interesse em comprar para morar ou investir, fazemos esse processo de forma tranquila e segura para você. Seja uma compra a <b>pronto pagamento (à vista) ou com financiamento</b>, temos as soluções para lhe apresentar."
         },
         "en": {
           "title": "Buying a property in Portugal remotely",
-          "text": "EN Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          "text": "We have expertise in this type of business. If you are interested in buying to live or invest, we do this process in a quiet and safe way for you. Whether it's a cash purchase (in cash) or with financing, we have the solutions to present you."
         },
         "img": "/imgs/servicos/casinha.svg",
         "fone": "351924871865"
@@ -182,27 +180,39 @@
       },
       {
         "pt": {
-          "title": "Vendemos o seu imóvel",
-          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it ."
+          "title": "Vendemos ou arrendamos seu imóvel",
+          "text": "Estamos aqui para assessorá-los na venda/arrendamento do seu imóvel. Trabalhamos com todas as práticas de mercado, buscando sempre a pró-atividade em todas as etapas com motivação para vendê-la/arrendar no menor espaço de tempo e com o preço ajustado ao mercado."
         },
         "en": {
-          "title": "We sell your property",
-          "text": "EN Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it ."
+          "title": "We sell or rent your property",
+          "text": "We are here to advise you on the sale/lease of your property. We work with all market practices, always seeking pro-activity at all stages with the motivation to sell/lease it in the shortest time and with the price adjusted to the market."
         },
         "img": "/imgs/servicos/maosecasa.svg",
         "fone": "351924871865"
       },
       {
         "pt": {
-          "title": "Arrendamento",
-          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          "title": "Financiamento Imobiliário",
+          "text": "É possível comprar seu imóvel em Portugal com seus rendimentos do seu país onde tem sua residência fiscal. Fale conosco, teremos o maior prazer em lhe atender e explicar como funcionar todo o processo. Estamos aqui para lhe apoiar."
         },
         "en": {
-          "title": "Rent",
-          "text": "EN Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          "title": "Real estate financing",
+          "text": "It is possible to buy your property in Portugal with your income from your country where you have your tax residence. Talk to us, we will be happy to assist you and explain how the whole process works. We are here to support you."
         },
-        "img": "/imgs/servicos/chave.svg",
-        "url": ""
+        "img": "/imgs/servicos/calculadora.svg",
+        "fone": "351924871865"
+      },
+      {
+        "pt": {
+          "title": "Investir em Portugal",
+          "text": "Tem interesse em comprar um imóvel e colocá-lo no mercado de arrendamento/aluguel para diversificar seus negócios? Portugal já vem há alguns anos, sendo eleito por investidores nacionais e estrangeiros, que buscam oportunidade em um mercado dinâmico e de muita procura para arrendamento/aluguel. Rentabilidade bruta a depender de regiões acima de 5%."
+        },
+        "en": {
+          "title": "Invest in Portugal",
+          "text": "Interested in buying a property and putting it on the rental/rental market to diversify your business? Portugal has been around for a few years, being elected by national and foreign investors, who are looking for opportunities in a dynamic and highly sought after rental/rental market. Gross profitability depending on regions above 5%."
+        },
+        "img": "/imgs/servicos/investir.svg",
+        "fone": "351924871865"
       }
 
     ]
@@ -225,7 +235,7 @@
     "pt": {
       "txt1": "Vamos conversar?",
       "txt2": "Sua agência<br>imobiliária digital<br>em Portugal. ",
-      "btn": "Envie uma mensagem?",
+      "btn": "Envie uma mensagem",
       "labelContato": "Contacto",
       "localtxt": "Lisboa - Portugal",
       "redes": "Redes Sociais"
